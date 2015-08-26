@@ -7,10 +7,10 @@ Netty项目是为了提供一个异步事件驱动的网络应用程序框架和
 一些用户可能发现其他一些网络框架声称和Netty具有相同的优势，你可能会问Netty和他们有什么不同之处。答案是Netty是建立在哲学之上的。从你使用Netty的第一天开始,Netty的设计会给你最舒适的API。这不是有形的东西，但是在你使用的过程中，你将会意识到这一点。
 ##三、如何学习Netty
 ###1.搭建Netty环境(Maven构建)
-<dependencies>
-    <dependency>
-        <groupId>io.netty</groupId>
-        <artifactId>netty-all</artifactId>
-        <version>4.0.30.Final</version>
-    </dependency>
-</dependencies>
+        <dependencies>
+            <dependency>
+                <groupId>io.netty</groupId>
+                <artifactId>netty-all</artifactId>
+                <version>4.0.30.Final</version>
+            </dependency>
+        </dependencies>
